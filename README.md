@@ -20,6 +20,8 @@ Run the script in superuser using `sudo su` or using `sudo`.
 ## ENVIRONMENT
 ------------------------------------------------------------
 
+Create an `.env` file at the root of the project based on the `.env.example` file at the root of the program. 
+
 | ENVIRONMENT |DESCRIPTION |
 |-----------------|-----------|
 | VERSION_FIREFOX |VERSION FIREFOX DEVELOPER|
